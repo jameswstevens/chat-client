@@ -3,5 +3,3 @@ A session setup protocol that underwrties chat systems such as Signal and WhatsA
 
 All messages sent also include the session key encrypted with a fixed public key issued by a central entity by a government
 
-
-
